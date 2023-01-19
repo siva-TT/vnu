@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "866316857289",
+    "project_id": "rxpatron",
+    "storage_bucket": "rxpatron.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866316857289:android:6f9340ec2d260e9e468218",
+        "android_client_info": {
+          "package_name": "com.orange.rxappspecific"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866316857289-5rcu0qhqc87753l3i6ercl7oad767ohh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiyo3NWGt2FaWXXIraTlPef_rNHnumC3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866316857289-5rcu0qhqc87753l3i6ercl7oad767ohh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "866316857289-mj7dv9ckh4eljhnueo7vo78gpbq1eodp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.orange.rxappspecific"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866316857289:android:ccb5d3ef70be6928468218",
+        "android_client_info": {
+          "package_name": "net.redeemx.patron.vnu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866316857289-5rcu0qhqc87753l3i6ercl7oad767ohh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiyo3NWGt2FaWXXIraTlPef_rNHnumC3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866316857289-5rcu0qhqc87753l3i6ercl7oad767ohh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "866316857289-mj7dv9ckh4eljhnueo7vo78gpbq1eodp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.orange.rxappspecific"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
